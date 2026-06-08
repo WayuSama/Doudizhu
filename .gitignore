@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.DotSettings.user
+.vs/
+
+# Rider / IDE
+.idea/
+*.sln.DotSettings
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+/tmp/
+temp/
