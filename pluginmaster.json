@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "KTear",
+    "Name": "斗地主",
+    "Punchline": "在 FFXIV 里和队友打斗地主!",
+    "Description": "基于 ImGui 的斗地主卡牌游戏插件。支持创建/加入房间，通过 HTTP 服务器同步发牌和出牌。需要自建服务器或使用朋友的主机作为服务器。",
+    "InternalName": "DoudizhuPlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/KTear-2000/Doudizhu",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/KTear-2000/Doudizhu/raw/main/plugins/DoudizhuPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KTear-2000/Doudizhu/raw/main/plugins/DoudizhuPlugin/latest.zip",
+    "LastUpdate": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0
+  }
+]
