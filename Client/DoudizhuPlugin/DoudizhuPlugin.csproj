@@ -2,7 +2,7 @@
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
     <Version>0.0.0.1</Version>
-    <PackageProjectUrl>https://github.com/yourname/DoudizhuPlugin</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/WayuSama/Doudizhu</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <IsPackable>false</IsPackable>
     <ImplicitUsings>enable</ImplicitUsings>
