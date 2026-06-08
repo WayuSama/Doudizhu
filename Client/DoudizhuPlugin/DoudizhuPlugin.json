@@ -3,7 +3,7 @@
   "Name": "斗地主",
   "Punchline": "在 FFXIV 里和队友打斗地主!",
   "Description": "基于 ImGui 的斗地主卡牌游戏插件。支持创建/加入房间，通过 HTTP 服务器同步发牌和出牌。\n/ddz → 打开游戏窗口\n\n需要自建服务器或使用朋友的主机作为服务器。",
-  "RepoUrl": "https://github.com/KTear-2000/Doudizhu",
+  "RepoUrl": "https://github.com/WayuSama/Doudizhu",
   "ApplicableVersion": "any",
   "Tags": [
     "game",
